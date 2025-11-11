@@ -1,0 +1,1317 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Development",
+      "description": "Developments Courses",
+      "thumbnail": "development.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Design",
+      "description": "Design Courses",
+      "thumbnail": "design.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Marketing",
+      "description": "Marketing Courses",
+      "thumbnail": "marketing.jpg"
+    },
+    {
+      "id": 4,
+      "title": "IT & Software",
+      "description": "IT & Software Courses",
+      "thumbnail": "it_software.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Personal Development",
+      "description": "Personal Development Courses",
+      "thumbnail": "personal_development.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Business",
+      "description": "Business Courses",
+      "thumbnail": "programming.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Photography",
+      "description": "Photography Courses",
+      "thumbnail": "photography.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Music",
+      "description": "Music Courses",
+      "thumbnail": "music.jpg"
+    }
+  ],
+  "courses": [
+    {
+      "title": "Java Spring MVC - Xây Dựng FullStack Website với Spring Boot new version",
+      "description": "Spring Framework là công cụ rất nổi tiếng trong cộng đồng Java, và một trong các tác dụng cùa nó là xây dựng một website hoàn chỉnh và chuyên nghiệp.\n\nBằng cách áp dụng mô hình MVC (Model-View-Controller) và kiến trúc của Spring giúp chúng ta tiết kiệm thời gian xây dựng một website.",
+      "active": true,
+      "price": 20000,
+      "instructor": {
+        "email": "datloan1408@gmail.com",
+        "profilePicture": "https://i.pravatar.cc",
+        "bio": "",
+        "phone": "",
+        "socialMedia": {},
+        "name": "Nguyễn Đạt",
+        "role": "instructor",
+        "id": 1
+      },
+      "modules": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "testimonials": [],
+      "id": 1,
+      "subtitle": "Học Spring MVC Chưa Từng Dễ Tới Vậy",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/indocs-e3006.appspot.com/o/courses%2F1_ao_thun_du_an.webp?alt=media&token=2aaa051e-c9d1-4f17-87c5-32ad0a8e273d",
+      "category": {
+        "id": 1,
+        "title": "Development",
+        "description": "Developments Courses",
+        "thumbnail": "development.jpg"
+      },
+      "learning": [
+        "Học Java từ các kiến thức cơ bản",
+        "Áp dụng kiến thức Java và Spring Boot để xây dựng ứng dụng thực tế",
+        "Phát triển các dự án sẵn sàng triển khai trong môi trường sản xuất",
+        "Tặng kèm chương bonus về cách sử dụng Spring Boot trong phát triển REST API và bảo mật ứng dụng"
+      ],
+      "quizSetId": "1"
+    },
+    {
+      "title": "ReactJS",
+      "description": "khoá học đơn giản vè reactjs",
+      "active": false,
+      "price": 0,
+      "instructor": {
+        "email": "datloan1408@gmail.com",
+        "profilePicture": "https://i.pravatar.cc",
+        "bio": "",
+        "phone": "",
+        "socialMedia": "",
+        "name": "Nguyễn Đạt",
+        "role": "instructor",
+        "id": 1
+      },
+      "modules": [],
+      "testimonials": [],
+      "id": 2
+    },
+    {
+      "title": "React bootcamp updated new version",
+      "description": "New react course",
+      "active": false,
+      "price": 0,
+      "instructor": {
+        "email": "datloan@gmail.com",
+        "profilePicture": "https://i.pravatar.cc",
+        "bio": "",
+        "phone": "",
+        "socialMedia": "",
+        "firstName": "Nguyễn",
+        "lastName": "Đạt",
+        "role": "instructor",
+        "id": 6
+      },
+      "modules": [
+        6,
+        7,
+        8
+      ],
+      "testimonials": [],
+      "id": 3,
+      "subtitle": "Advanced course about react",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/indocs-e3006.appspot.com/o/courses%2F3_python-image.jpeg?alt=media&token=6c59f2ca-a136-4c88-8f70-53b20a2d67eb",
+      "category": {
+        "id": 4,
+        "title": "IT & Software",
+        "description": "IT & Software Courses",
+        "thumbnail": "it_software.jpg"
+      }
+    }
+  ],
+  "users": [
+    {
+      "email": "datloan1408@gmail.com",
+      "password": "$2a$10$pIxJ2Nke596xflcqMZvYSOPO31f6JyBFcx10H32GtZK2tz1hpn.xy",
+      "profilePicture": "https://i.pravatar.cc",
+      "bio": "",
+      "phone": "",
+      "socialMedia": "",
+      "name": "Nguyễn Đạt",
+      "role": "instructor",
+      "id": 1
+    },
+    {
+      "email": "datloan14081@gmail.com",
+      "password": "$2b$10$j68KpFDv2vaRXrdE51jIVOO6pP5LvRhqI4Ejktk588qwFFqKOVNTa",
+      "profilePicture": "https://i.pravatar.cc",
+      "bio": "toi la 1 lap trinh vien",
+      "phone": "0913170255",
+      "socialMedia": "http://facebook.com/dat-nguyen-the",
+      "firstName": "Nguyen",
+      "lastName": "Dat",
+      "role": "student",
+      "id": 2,
+      "designation": "lap trinh vien"
+    },
+    {
+      "email": "datloan14082@gmail.com",
+      "password": "$2a$10$UCnQ.CxrOrtWobQk2iE3peioQgXnNuJ.FEdTK5U2kYqFNN5BBlVoC",
+      "profilePicture": "https://i.pravatar.cc",
+      "bio": "",
+      "phone": "",
+      "socialMedia": "",
+      "firstName": "Nguyễn",
+      "lastName": "Đạt",
+      "role": "student",
+      "id": 3
+    },
+    {
+      "email": "datloan14088@gmail.com",
+      "password": "$2a$10$AZS75QES74qtKekAlSCaBezki6bOEzvIpC3CdS9k73tjn5RNix0Bq",
+      "profilePicture": "https://i.pravatar.cc",
+      "bio": "aaaaaaaaaaaaaaaaaaaa",
+      "phone": "",
+      "socialMedia": "",
+      "firstName": "Nguyễn",
+      "lastName": "The Dat",
+      "role": "student",
+      "id": 4,
+      "designation": ""
+    },
+    {
+      "email": "ddatloan1408@gmail.com",
+      "password": "$2a$10$YfgncFniPaAk1zOLXD6.MOgUdCT4d5XCztCFoMp75.lmIhMMMjSwC",
+      "profilePicture": "https://i.pravatar.cc",
+      "bio": "",
+      "phone": "",
+      "socialMedia": "",
+      "firstName": "Nguyễn",
+      "lastName": "Đạt",
+      "role": "student",
+      "id": 5
+    },
+    {
+      "email": "datloan@gmail.com",
+      "password": "$2a$10$vSS/M.8jc6Dt/okaumgve.zz8ALWIB7h7iW1Yf6EDg7/jRlWgibA2",
+      "profilePicture": "https://i.pravatar.cc",
+      "bio": "",
+      "phone": "",
+      "socialMedia": "",
+      "firstName": "Nguyễn",
+      "lastName": "Đạt",
+      "role": "instructor",
+      "id": 6
+    },
+    {
+      "email": "user1@gmail.com",
+      "password": "$2a$10$paeXVqexsWPZ1vQBSIPCremT.Gck4FzwuF1vgc7hQ4yxhYKmau8Z.",
+      "profilePicture": "https://i.pravatar.cc",
+      "bio": "",
+      "phone": "",
+      "socialMedia": "",
+      "firstName": "Nguyễn",
+      "lastName": "Đạt",
+      "role": "student",
+      "id": 7
+    }
+  ],
+  "modules": [
+    {
+      "title": "Chapter 1: Bắt buộc xem nè",
+      "slug": "hapter-1-at-buoc-xem-ne",
+      "courseId": "1",
+      "order": 0,
+      "lessonIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        17
+      ],
+      "active": true,
+      "duration": 0,
+      "id": 1
+    },
+    {
+      "title": "Chapter 2: Setup Environment",
+      "slug": "chapter-2-setup-environment",
+      "courseId": "1",
+      "order": 1,
+      "lessonIds": [
+        8,
+        9,
+        10
+      ],
+      "active": true,
+      "duration": 0,
+      "id": 2
+    },
+    {
+      "title": "Chapter 3: Hello World với Spring",
+      "slug": "chapter-3-hello-world-voi-spring",
+      "courseId": "1",
+      "order": 4,
+      "lessonIds": [
+        11,
+        12
+      ],
+      "active": true,
+      "duration": 0,
+      "id": 3
+    },
+    {
+      "title": "Chapter 4: Maven & Cấu trúc dự án Spring Boot",
+      "slug": "chapter-4-maven-cau-truc-du-an-spring-boot",
+      "courseId": "1",
+      "order": 2,
+      "lessonIds": [
+        13,
+        14
+      ],
+      "active": true,
+      "duration": 0,
+      "id": 4
+    },
+    {
+      "title": "Chapter 5: Spring và Inversion of Control (IoC) update",
+      "slug": "chapter-5-spring-va-inversion-of-control-ioc-update",
+      "courseId": "1",
+      "order": 3,
+      "lessonIds": [
+        15,
+        16,
+        18,
+        19
+      ],
+      "active": true,
+      "duration": 0,
+      "id": 5
+    },
+    {
+      "title": "Chapter 1",
+      "slug": "hapter-1",
+      "courseId": "3",
+      "order": 1,
+      "lessonIds": [],
+      "active": false,
+      "duration": 0,
+      "id": 6
+    },
+    {
+      "title": "Chapter 2",
+      "slug": "hapter-2",
+      "courseId": "3",
+      "order": 2,
+      "lessonIds": [],
+      "active": false,
+      "duration": 0,
+      "id": 7
+    },
+    {
+      "title": "chapter 4",
+      "slug": "chapter-4",
+      "courseId": "3",
+      "order": 0,
+      "lessonIds": [
+        20,
+        21
+      ],
+      "active": false,
+      "duration": 0,
+      "id": 8
+    }
+  ],
+  "lessons": [
+    {
+      "title": "#1. Hướng Dẫn Sử Dụng Khóa Học Hiệu Quả",
+      "slug": "1-huong-dan-su-dung-khoa-hoc-hieu-qua",
+      "moduleId": "1",
+      "order": 0,
+      "description": "",
+      "duration": 1111,
+      "video_url": "https://www.youtube.com/embed/sWSm-NyFlW8?si=_W2dVELQPl5Tfbq0",
+      "access": "public",
+      "active": true,
+      "id": 1,
+      "courseId": 1,
+      "playbackId": "4AGAxvOq4Qs44RqlVuoEGneMLzOCeUfVl8IO3w00ocqw"
+    },
+    {
+      "title": "#2. Hướng Dẫn Quyền Truy Cập Tài Liệu Khóa Học",
+      "slug": "2-huong-dan-quyen-truy-cap-tai-lieu-khoa-hoc",
+      "moduleId": "1",
+      "order": 1,
+      "description": "",
+      "duration": 1759,
+      "video_url": "https://www.youtube.com/embed/cMra0TpXgBQ?si=ZknxzxY7x5cResrL",
+      "access": "private",
+      "active": true,
+      "id": 2,
+      "courseId": 1,
+      "playbackId": "4AGAxvOq4Qs44RqlVuoEGneMLzOCeUfVl8IO3w00ocqw"
+    },
+    {
+      "title": "#4. Hướng Dẫn Tải Source Code Theo Từng Video",
+      "slug": "4-huong-dan-tai-source-code-theo-tung-video",
+      "moduleId": "1",
+      "order": 2,
+      "description": "",
+      "duration": 268,
+      "video_url": "https://www.youtube.com/embed/6Y6ooOr_Yy4?si=r1f6dCLLQTDquzVd",
+      "access": "private",
+      "active": true,
+      "id": 3,
+      "courseId": 1,
+      "playbackId": "4AGAxvOq4Qs44RqlVuoEGneMLzOCeUfVl8IO3w00ocqw"
+    },
+    {
+      "title": "#3. Hướng Dẫn Quyền Truy Cập Source Code",
+      "slug": "3-huong-dan-quyen-truy-cap-source-code",
+      "moduleId": "1",
+      "order": 3,
+      "description": "",
+      "duration": 206,
+      "video_url": "https://www.youtube.com/embed/UhQuMgpaWrg?si=9d48cJf-fVRemSza",
+      "access": "private",
+      "active": true,
+      "id": 4,
+      "courseId": 1,
+      "playbackId": "4AGAxvOq4Qs44RqlVuoEGneMLzOCeUfVl8IO3w00ocqw"
+    },
+    {
+      "title": "#5.1. Demo kết quả đạt được",
+      "slug": "51-demo-ket-qua-dat-duoc",
+      "moduleId": "1",
+      "order": 4,
+      "description": "",
+      "duration": 332,
+      "video_url": "https://www.youtube.com/embed/vDfkqjhtiCM?si=i8jMeSOx3uyZTSVD",
+      "access": "private",
+      "active": true,
+      "id": 5,
+      "courseId": 1,
+      "playbackId": "4AGAxvOq4Qs44RqlVuoEGneMLzOCeUfVl8IO3w00ocqw"
+    },
+    {
+      "title": "#5.2 Yêu cầu để học được khóa học này",
+      "slug": "52-yeu-cau-de-hoc-duoc-khoa-hoc-nay",
+      "moduleId": "1",
+      "order": 5,
+      "description": "",
+      "duration": 264,
+      "video_url": "https://www.youtube.com/embed/9GLwkGkMIxc?si=80vz_WgEZYXYuIRR",
+      "access": "private",
+      "active": true,
+      "id": 6,
+      "courseId": 1,
+      "playbackId": "4AGAxvOq4Qs44RqlVuoEGneMLzOCeUfVl8IO3w00ocqw"
+    },
+    {
+      "title": "#5.3 Cách Dùng Udemy - Hỗ Trợ Hỏi Đáp Q&A",
+      "slug": "53-cach-dung-udemy-ho-tro-hoi-dap-qa",
+      "moduleId": "1",
+      "order": 6,
+      "description": "",
+      "duration": 299,
+      "video_url": "https://www.youtube.com/embed/l0d9pCtFVnw?si=OAfACWKKgC8W3MHq",
+      "access": "private",
+      "active": true,
+      "id": 7,
+      "courseId": 1,
+      "playbackId": "4AGAxvOq4Qs44RqlVuoEGneMLzOCeUfVl8IO3w00ocqw"
+    },
+    {
+      "title": "#6. Cài Java version 17",
+      "slug": "6-cai-java-version-17",
+      "moduleId": "2",
+      "order": "0",
+      "description": "",
+      "duration": 380,
+      "video_url": "https://www.youtube.com/embed/N4Xak1n497M?si=mN4_2nqNt6wakDvh",
+      "access": "private",
+      "active": true,
+      "id": 8,
+      "courseId": 1,
+      "playbackId": "4AGAxvOq4Qs44RqlVuoEGneMLzOCeUfVl8IO3w00ocqw"
+    },
+    {
+      "title": "#7. Cài đặt Visual Studio Code",
+      "slug": "7-cai-dat-visual-studio-code",
+      "moduleId": "2",
+      "order": "1",
+      "description": "",
+      "duration": 327,
+      "video_url": "https://www.youtube.com/embed/dTsvdUX15kc?si=dWGtTWUi4xQuKmVD",
+      "access": "private",
+      "active": true,
+      "id": 9,
+      "courseId": 1,
+      "playbackId": "4AGAxvOq4Qs44RqlVuoEGneMLzOCeUfVl8IO3w00ocqw"
+    },
+    {
+      "title": "#12. Cài đặt Postman",
+      "slug": "12-cai-dat-postman",
+      "moduleId": "2",
+      "order": "2",
+      "description": "",
+      "duration": 274,
+      "video_url": "https://www.youtube.com/embed/sOU67aneq1Q?si=6AauJCVQQgnsJAup",
+      "access": "private",
+      "active": true,
+      "id": 10,
+      "courseId": 1,
+      "playbackId": "4AGAxvOq4Qs44RqlVuoEGneMLzOCeUfVl8IO3w00ocqw"
+    },
+    {
+      "title": "#13. Java Spring là gì ?",
+      "slug": "13-java-spring-la-gi",
+      "moduleId": "3",
+      "order": "0",
+      "description": "",
+      "duration": 492,
+      "video_url": "https://www.youtube.com/embed/Rzm_kltwHbg?si=04dzvX43fGdEfV5a",
+      "access": "private",
+      "active": true,
+      "id": 11,
+      "courseId": 1,
+      "playbackId": "4AGAxvOq4Qs44RqlVuoEGneMLzOCeUfVl8IO3w00ocqw"
+    },
+    {
+      "title": "#19. Tài liệu của Java Spring ?",
+      "slug": "19-tai-lieu-cua-java-spring",
+      "moduleId": "3",
+      "order": "1",
+      "description": "",
+      "duration": 371,
+      "video_url": "https://www.youtube.com/embed/NlrYe__kDvE?si=iUFrFiHCVT429Nvw",
+      "access": "private",
+      "active": true,
+      "id": 12,
+      "courseId": 1,
+      "playbackId": "4AGAxvOq4Qs44RqlVuoEGneMLzOCeUfVl8IO3w00ocqw"
+    },
+    {
+      "title": "#22. Spring Build Tool và Maven",
+      "slug": "22-spring-build-tool-va-maven",
+      "moduleId": "4",
+      "order": "0",
+      "description": "",
+      "duration": 721,
+      "video_url": "https://www.youtube.com/embed/wEPX3V5T63M?si=HsAE2Qnu2WbDAPev",
+      "access": "private",
+      "active": true,
+      "courseId": 1,
+      "id": 13,
+      "playbackId": "4AGAxvOq4Qs44RqlVuoEGneMLzOCeUfVl8IO3w00ocqw"
+    },
+    {
+      "title": "#25. Cú pháp đặt tên thư viện/project với Spring",
+      "slug": "25-cu-phap-dat-ten-thu-vien-project-voi-spring",
+      "moduleId": "4",
+      "order": "1",
+      "description": "",
+      "duration": 252,
+      "video_url": "https://www.youtube.com/embed/e1hRL4FAnjU?si=iJdb1gXr3lkXo9bf",
+      "access": "private",
+      "active": true,
+      "id": 14,
+      "courseId": 1,
+      "playbackId": "4AGAxvOq4Qs44RqlVuoEGneMLzOCeUfVl8IO3w00ocqw"
+    },
+    {
+      "title": "#27. Kiến trúc của Spring Framework",
+      "slug": "27-kien-truc-cua-spring-framework",
+      "moduleId": "5",
+      "order": "0",
+      "description": "",
+      "duration": 132,
+      "video_url": "https://www.youtube.com/embed/1Zn4L7vi9gg?si=dYp2W1242-9OK6Rq",
+      "access": "private",
+      "active": true,
+      "id": 15,
+      "courseId": 1,
+      "playbackId": "4AGAxvOq4Qs44RqlVuoEGneMLzOCeUfVl8IO3w00ocqw"
+    },
+    {
+      "title": "#31. Viết code “tightly coupled” và “loosely coupled”",
+      "slug": "31-viet-code-tightly-coupled-va-loosely-coupled",
+      "moduleId": "5",
+      "order": "1",
+      "description": "",
+      "duration": 852,
+      "video_url": "https://youtu.be/5Jmb7mO3TbM?si=xOsw62Zq8W1bOuUX",
+      "access": "private",
+      "active": true,
+      "id": 16,
+      "courseId": 1,
+      "playbackId": "4AGAxvOq4Qs44RqlVuoEGneMLzOCeUfVl8IO3w00ocqw"
+    },
+    {
+      "title": "new update lesson",
+      "slug": "new-update-lesson",
+      "moduleId": "1",
+      "order": 7,
+      "courseId": "1",
+      "description": "",
+      "duration": 0,
+      "video_url": "",
+      "access": "private",
+      "active": false,
+      "id": 17
+    },
+    {
+      "title": "Kiến trúc hệ thống",
+      "slug": "ien-truc-he-thong",
+      "moduleId": "5",
+      "order": "2",
+      "courseId": "1",
+      "description": "",
+      "duration": 0,
+      "video_url": "",
+      "access": "private",
+      "active": true,
+      "id": 18,
+      "playbackId": "vKFyHvNDbQkWz02v6GRevq8t7KeuBSmqY5X3zt1JbrUA"
+    },
+    {
+      "title": "new course test",
+      "slug": "new-course-test",
+      "moduleId": "5",
+      "order": "3",
+      "courseId": "1",
+      "description": "",
+      "duration": 0,
+      "video_url": "",
+      "access": "private",
+      "active": true,
+      "id": 19,
+      "playbackId": "FWNjlZ3uz7DXeSK2tMp1udN8mX02OJ6c4D78Lu9KBVXw"
+    },
+    {
+      "title": "lesson 1",
+      "slug": "lesson-1",
+      "moduleId": "8",
+      "order": 1,
+      "courseId": "3",
+      "description": "",
+      "duration": 0,
+      "video_url": "",
+      "access": "private",
+      "active": false,
+      "id": 20,
+      "playbackId": "hK9nqUrsozYmxEZeUwUjXIL3aT02Y9DM9l2FqUyAO3l8"
+    },
+    {
+      "title": "lesson 2",
+      "slug": "lesson-2",
+      "moduleId": "8",
+      "order": 0,
+      "courseId": "3",
+      "description": "",
+      "duration": 0,
+      "video_url": "",
+      "access": "private",
+      "active": false,
+      "id": 21
+    }
+  ],
+  "enrollments": [
+    {
+      "userId": 2,
+      "courseId": 1,
+      "createdAt": "2025-07-12T17:54:11.038Z",
+      "status": "PAID",
+      "orderCode": 1752342850532,
+      "customerInfo": "Nguyễn Đạt",
+      "id": 1
+    },
+    {
+      "userId": 3,
+      "courseId": 1,
+      "createdAt": "2025-07-16T15:24:50.448Z",
+      "status": "PAID",
+      "orderCode": 1752679489927,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "courseId": 1,
+      "createdAt": "2025-07-22T04:04:26.758Z",
+      "status": "pending",
+      "orderCode": 1753157066252,
+      "customerInfo": "Nguyễn Đạt",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "courseId": 1,
+      "createdAt": "2025-07-22T04:09:30.384Z",
+      "status": "pending",
+      "orderCode": 1753157369903,
+      "customerInfo": "Nguyễn Đạt",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "courseId": 1,
+      "createdAt": "2025-07-22T04:13:39.758Z",
+      "status": "pending",
+      "orderCode": 1753157619298,
+      "customerInfo": "Nguyễn Đạt",
+      "id": 5
+    },
+    {
+      "userId": 4,
+      "courseId": 1,
+      "createdAt": "2025-07-22T04:40:08.193Z",
+      "status": "PAID",
+      "orderCode": 1753159207727,
+      "id": 6
+    },
+    {
+      "userId": 7,
+      "courseId": 1,
+      "createdAt": "2025-11-11T06:58:03.285Z",
+      "status": "PAID",
+      "orderCode": 1762844282859,
+      "id": 7
+    }
+  ],
+  "watches": [
+    {
+      "user": 2,
+      "lesson": 1,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752484926428,
+      "id": 1,
+      "modified_at": 1752484937470
+    },
+    {
+      "user": 2,
+      "lesson": 2,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752486462379,
+      "id": 2,
+      "modified_at": 1752486482316
+    },
+    {
+      "user": 2,
+      "lesson": 7,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752491311243,
+      "id": 3,
+      "modified_at": 1752491326842
+    },
+    {
+      "user": 2,
+      "lesson": 12,
+      "module": 3,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752491383014,
+      "id": 4,
+      "modified_at": 1752491394106
+    },
+    {
+      "user": 2,
+      "lesson": 15,
+      "module": 5,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752491929990,
+      "id": 5,
+      "modified_at": 1752491946034
+    },
+    {
+      "user": 2,
+      "lesson": 14,
+      "module": 4,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752491954854,
+      "id": 6,
+      "modified_at": 1752491978768
+    },
+    {
+      "user": 2,
+      "lesson": 6,
+      "module": 1,
+      "state": "started",
+      "lastTime": 0,
+      "created_at": 1752542739692,
+      "id": 7
+    },
+    {
+      "user": 2,
+      "lesson": 16,
+      "module": 5,
+      "state": "started",
+      "lastTime": 0,
+      "created_at": 1752677922098,
+      "id": 8
+    },
+    {
+      "user": 3,
+      "lesson": 1,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752679553202,
+      "id": 9,
+      "modified_at": 1752679596770
+    },
+    {
+      "user": 3,
+      "lesson": 2,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752679616035,
+      "id": 10,
+      "modified_at": 1752679623740
+    },
+    {
+      "user": 3,
+      "lesson": 3,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752679630293,
+      "id": 11,
+      "modified_at": 1752679633645
+    },
+    {
+      "user": 3,
+      "lesson": 4,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752679637654,
+      "id": 12,
+      "modified_at": 1752679639803
+    },
+    {
+      "user": 3,
+      "lesson": 5,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752679643534,
+      "id": 13,
+      "modified_at": 1752679648878
+    },
+    {
+      "user": 3,
+      "lesson": 6,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752679654032,
+      "id": 14,
+      "modified_at": 1752679657767
+    },
+    {
+      "user": 3,
+      "lesson": 7,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752679661799,
+      "id": 15,
+      "modified_at": 1752679666605
+    },
+    {
+      "user": 3,
+      "lesson": 11,
+      "module": 3,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752679670855,
+      "id": 16,
+      "modified_at": 1752679673428
+    },
+    {
+      "user": 3,
+      "lesson": 12,
+      "module": 3,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752679675765,
+      "id": 17,
+      "modified_at": 1752679679480
+    },
+    {
+      "user": 3,
+      "lesson": 13,
+      "module": 4,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752679684378,
+      "id": 18,
+      "modified_at": 1752679686351
+    },
+    {
+      "user": 3,
+      "lesson": 14,
+      "module": 4,
+      "state": "completed",
+      "lastTime": 170.88267,
+      "created_at": 1752679695035,
+      "id": 19
+    },
+    {
+      "user": 3,
+      "lesson": 8,
+      "module": 2,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752679705319,
+      "id": 20,
+      "modified_at": 1752679708199
+    },
+    {
+      "user": 3,
+      "lesson": 9,
+      "module": 2,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752679710622,
+      "id": 21,
+      "modified_at": 1752679715881
+    },
+    {
+      "user": 3,
+      "lesson": 10,
+      "module": 2,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752679718119,
+      "id": 22,
+      "modified_at": 1752679721748
+    },
+    {
+      "user": 3,
+      "lesson": 15,
+      "module": 5,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752679724749,
+      "id": 23,
+      "modified_at": 1752679728012
+    },
+    {
+      "user": 3,
+      "lesson": 16,
+      "module": 5,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752679734128,
+      "id": 24,
+      "modified_at": 1752679737225
+    },
+    {
+      "user": 3,
+      "lesson": 18,
+      "module": 5,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1752780700002,
+      "id": 25,
+      "modified_at": 1752780722221
+    },
+    {
+      "user": 4,
+      "lesson": 1,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1753159279831,
+      "id": 26,
+      "modified_at": 1753159309702
+    },
+    {
+      "user": 4,
+      "lesson": 2,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1753159317084,
+      "id": 27,
+      "modified_at": 1753159325467
+    },
+    {
+      "user": 4,
+      "lesson": 3,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1753159574969,
+      "id": 28,
+      "modified_at": 1753159578800
+    },
+    {
+      "user": 4,
+      "lesson": 4,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1753159581004,
+      "id": 29,
+      "modified_at": 1753159584353
+    },
+    {
+      "user": 4,
+      "lesson": 5,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1753159590940,
+      "id": 30,
+      "modified_at": 1753159594893
+    },
+    {
+      "user": 4,
+      "lesson": 6,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1753159597206,
+      "id": 31,
+      "modified_at": 1753159600086
+    },
+    {
+      "user": 4,
+      "lesson": 7,
+      "module": 1,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1753159606524,
+      "id": 32,
+      "modified_at": 1753159608252
+    },
+    {
+      "user": 4,
+      "lesson": 11,
+      "module": 3,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1753159617169,
+      "id": 33,
+      "modified_at": 1753159620639
+    },
+    {
+      "user": 4,
+      "lesson": 12,
+      "module": 3,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1753159623607,
+      "id": 34,
+      "modified_at": 1753159625741
+    },
+    {
+      "user": 4,
+      "lesson": 13,
+      "module": 4,
+      "state": "started",
+      "lastTime": 0,
+      "created_at": 1753159627932,
+      "id": 35
+    },
+    {
+      "user": 4,
+      "lesson": 14,
+      "module": 4,
+      "state": "completed",
+      "lastTime": 170.88267,
+      "created_at": 1753159631057,
+      "id": 36
+    },
+    {
+      "user": 4,
+      "lesson": 8,
+      "module": 2,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1753159636157,
+      "id": 37,
+      "modified_at": 1753159640181
+    },
+    {
+      "user": 4,
+      "lesson": 9,
+      "module": 2,
+      "state": "started",
+      "lastTime": 0,
+      "created_at": 1753159644963,
+      "id": 38
+    },
+    {
+      "user": 4,
+      "lesson": 10,
+      "module": 2,
+      "state": "completed",
+      "lastTime": 170.88267,
+      "created_at": 1753159648761,
+      "id": 39
+    },
+    {
+      "user": 4,
+      "lesson": 15,
+      "module": 5,
+      "state": "started",
+      "lastTime": 0,
+      "created_at": 1753159655231,
+      "id": 40
+    },
+    {
+      "user": 4,
+      "lesson": 16,
+      "module": 5,
+      "state": "completed",
+      "lastTime": 170.88267,
+      "created_at": 1753159658878,
+      "id": 41
+    },
+    {
+      "user": 4,
+      "lesson": 19,
+      "module": 5,
+      "state": "completed",
+      "lastTime": 0,
+      "created_at": 1753159666781,
+      "id": 42,
+      "modified_at": 1753159671480
+    }
+  ],
+  "testimonials": [
+    {
+      "rating": 4,
+      "review": "Khoá học rất hay, rất bổ ích",
+      "user": {
+        "email": "datloan14082@gmail.com",
+        "profilePicture": "https://i.pravatar.cc",
+        "bio": "",
+        "phone": "",
+        "socialMedia": "",
+        "firstName": "Nguyễn",
+        "lastName": "Đạt",
+        "role": "student",
+        "id": 3
+      },
+      "courseId": "1",
+      "id": 1
+    },
+    {
+      "rating": 4,
+      "review": "Khoá học rất hay, rất bổ ích",
+      "user": {
+        "email": "datloan14082@gmail.com",
+        "profilePicture": "https://i.pravatar.cc",
+        "bio": "",
+        "phone": "",
+        "socialMedia": "",
+        "firstName": "Nguyễn",
+        "lastName": "Đạt",
+        "role": "student",
+        "id": 3
+      },
+      "courseId": "1",
+      "id": 1
+    },
+    {
+      "rating": 4,
+      "review": "Khoá học rất hay, rất bổ ích",
+      "user": {
+        "email": "datloan14082@gmail.com",
+        "profilePicture": "https://i.pravatar.cc",
+        "bio": "",
+        "phone": "",
+        "socialMedia": "",
+        "firstName": "Nguyễn",
+        "lastName": "Đạt",
+        "role": "student",
+        "id": 3
+      },
+      "courseId": "1",
+      "id": 1
+    }
+  ],
+  "quiz-sets": [
+    {
+      "id": 1,
+      "title": "Introduction to Programming update ne",
+      "description": "A basic quiz set to assess programming fundamentals.",
+      "slug": "intro-to-programming",
+      "active": true,
+      "instructorId": 1,
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which of the following is a programming language?",
+          "description": "Identify the programming language among the options.",
+          "options": [
+            {
+              "text": "HTML",
+              "is_correct": false
+            },
+            {
+              "text": "CSS",
+              "is_correct": false
+            },
+            {
+              "text": "Python",
+              "is_correct": true
+            },
+            {
+              "text": "Photoshop",
+              "is_correct": false
+            }
+          ],
+          "explanations": "Python is a programming language.",
+          "mark": 5,
+          "slug": "programming-language"
+        },
+        {
+          "id": 2,
+          "title": "Which of these is a markup language?",
+          "description": "Pick the correct markup language.",
+          "options": [
+            {
+              "text": "JavaScript",
+              "is_correct": false
+            },
+            {
+              "text": "HTML",
+              "is_correct": true
+            },
+            {
+              "text": "C++",
+              "is_correct": false
+            },
+            {
+              "text": "Java",
+              "is_correct": false
+            }
+          ],
+          "explanations": "HTML is used to define the structure of web pages.",
+          "mark": 5,
+          "slug": "markup-language"
+        },
+        {
+          "id": 1753034706471,
+          "title": "What is the capital of VietNam",
+          "description": "Test question",
+          "options": [
+            {
+              "text": "Ha Noi",
+              "is_correct": true
+            },
+            {
+              "text": "Ho Chi Minh",
+              "is_correct": false
+            },
+            {
+              "text": "Da Nang",
+              "is_correct": false
+            },
+            {
+              "text": "Hai Phong",
+              "is_correct": false
+            }
+          ],
+          "explanations": "",
+          "mark": 5,
+          "slug": "hat-is-the-capital-of-ietam"
+        },
+        {
+          "id": 1753034795422,
+          "title": "new ques",
+          "description": "new que",
+          "options": [
+            {
+              "text": "A",
+              "is_correct": false
+            },
+            {
+              "text": "B",
+              "is_correct": true
+            },
+            {
+              "text": "D",
+              "is_correct": false
+            },
+            {
+              "text": "E",
+              "is_correct": false
+            }
+          ],
+          "explanations": "",
+          "mark": 5,
+          "slug": "new-ques"
+        },
+        {
+          "id": 1762844149984,
+          "title": "test math : 1 + 1 = ?",
+          "description": "true",
+          "options": [
+            {
+              "text": "1",
+              "is_correct": false
+            },
+            {
+              "text": "2",
+              "is_correct": true
+            },
+            {
+              "text": "3",
+              "is_correct": false
+            },
+            {
+              "text": "4",
+              "is_correct": false
+            }
+          ],
+          "explanations": "",
+          "mark": 5,
+          "slug": "test-math--1--1--"
+        }
+      ]
+    },
+    {
+      "title": "reactjs-question",
+      "instructorId": 1,
+      "active": false,
+      "id": 2
+    },
+    {
+      "title": "react quiz",
+      "instructorId": 6,
+      "active": false,
+      "id": 3
+    }
+  ]
+}
